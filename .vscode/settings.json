@@ -1,0 +1,12 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint":"always",
+    "source.organizeImports": "always"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFoldingRangeProvider": "esbenp.prettier-vscode",
+  "editor.wordWrap": "on",
+  "markdownLint.config":{
+    "MD841":false
+  }
+}
